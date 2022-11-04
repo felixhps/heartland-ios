@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+BBPOS in Pods, no dependencies
+GlobalPaymentsApi in Pods, no dependencies
+VitalSDK in Pods, depends on:
+BBPOS in Pods (explicit)
+GlobalPaymentsApi in Pods (explicit)

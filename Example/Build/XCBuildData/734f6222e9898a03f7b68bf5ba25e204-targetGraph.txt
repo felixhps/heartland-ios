@@ -1,0 +1,18 @@
+Target dependency graph (7 targets)
+BBPOS in Pods, no dependencies
+GlobalPaymentsApi in Pods, no dependencies
+Heartland-iOS-SDK-Heartland-iOS-SDK in Pods, no dependencies
+VitalSDK in Pods, depends on:
+BBPOS in Pods (explicit)
+GlobalPaymentsApi in Pods (explicit)
+XMLDictionary in Pods, no dependencies
+Heartland-iOS-SDK in Pods, depends on:
+Heartland-iOS-SDK-Heartland-iOS-SDK in Pods (explicit)
+VitalSDK in Pods (explicit)
+XMLDictionary in Pods (explicit)
+Pods-Heartland-iOS-SDK_Example in Pods, depends on:
+BBPOS in Pods (explicit)
+GlobalPaymentsApi in Pods (explicit)
+Heartland-iOS-SDK in Pods (explicit)
+VitalSDK in Pods (explicit)
+XMLDictionary in Pods (explicit)

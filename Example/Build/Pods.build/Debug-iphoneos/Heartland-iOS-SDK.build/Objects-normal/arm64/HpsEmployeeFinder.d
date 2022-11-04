@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsEmployeeFinder.m \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Example/build/Pods.build/Debug-iphoneos/Heartland-iOS-SDK.build/module.modulemap \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Example/Pods/Target\ Support\ Files/Heartland-iOS-SDK/Heartland-iOS-SDK-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/kcdata.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/uuid.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/netinet6.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/machine.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/device.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/mach_debug.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/mach_machine.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/mach.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/bank.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/darwin_posix_sys_types.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/netinet.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/net.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/darwin_cdefs.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsEmployeeFinder.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayRollRequest.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsBasePayrollResponse.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsJsonDoc.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsBase64Encoder.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsEmployee.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayrollEntity.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayrollEncoder.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsEnum.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayrollService.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayrollConfig.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsRestGateway.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Gateways/HpsGateway.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Gateways/HpsGatewayResponse.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayrollRecord.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayItem.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayrollCollectionItem.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsPayGroup.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsWorkLocation.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsClientInfo.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsTerminationReason.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsLaborField.h \
+  /Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Payroll/HpsLaborFieldLookup.h

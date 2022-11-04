@@ -1,0 +1,88 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c18bb40897bc4dbb43118ce42b355b2c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98253891727ace74d26e46d1efeb8474c0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9897bf2158751beb312eef48754342667d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989ae389755771ec94b82f640640a13727"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9829d62b22249109ea294f3ce14c2fe292"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985327e3559e66851cd509eff11f11f4c7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981511d1ce35ca0b9454a6ad3cc6847344"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985441a642de3bbc5d7463244c4ef431a7"
+    }
+  ],
+  "containerPath" : "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/renato.santos/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/renato.santos/Library/Developer/Xcode/DerivedData/Pods-gaygluvyzrdklmcogxpglnlvqwrn/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/renato.santos/Library/Developer/Xcode/DerivedData/Pods-gaygluvyzrdklmcogxpglnlvqwrn/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008030-001E388E0C6BC02E",
+          "TARGET_DEVICE_MODEL" : "iPad12,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.6",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

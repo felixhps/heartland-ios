@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Example/build/Debug-iphoneos/Heartland-iOS-SDK/Heartland_iOS_SDK.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Example/build/Pods.build/Debug-iphoneos/Heartland-iOS-SDK.build/unextended-module.modulemap",
+    }]
+  }]
+}

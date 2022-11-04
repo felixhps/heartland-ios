@@ -1,0 +1,92 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "3a139ffa103a3d1c95c7285e0a4f5b7c43858b94289d30fd8028ac6573bc5ff1"
+build_start_time: [1667181166, 627338886]
+build_end_time: [1667181166, 767125129]
+inputs:
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xBaseBuilder.swift": [1667181066, 497185945]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xBatchCloseBuilder.swift"
+  : [1667181066, 497345209]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditAdjustBuilder.swift"
+  : [1667181066, 497415065]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditAuthBuilder.swift"
+  : [1667181066, 497479915]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditCaptureBuilder.swift"
+  : [1667181066, 497620105]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditReturnBuilder.swift"
+  : [1667181066, 497686862]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditReversalBuilder.swift"
+  : [1667181066, 497779369]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditSaleBuilder.swift"
+  : [1667181066, 497848033]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Builders/HpsC2xCreditVoidBuilder.swift"
+  : [1667181066, 497926712]
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Delegates/HpsC2xDeviceDelegate.swift": [1667181066, 498049736]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/Delegates/HpsC2xTransactionDelegate.swift"
+  : [1667181066, 498130321]
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/C2X/HpsC2xDevice.swift": [1667181066, 498219013]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSBaseBuilder.swift"
+  : [1667181066, 518739700]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSConfiguration.swift"
+  : [1667181066, 518834590]
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSDevice.swift": [1667181066, 518922567]
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSError.swift": [1667181066, 519000530]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSRequestHelper.swift"
+  : [1667181066, 519092082]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSResponseHelper.swift"
+  : [1667181066, 519172191]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSTransactionResponse.swift"
+  : [1667181066, 519244670]
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/GMSWrapper.swift": [1667181066, 519327163]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/HpsC2xEnums.swift"
+  : [1667181066, 519403219]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/HpsTerminalInfo.swift"
+  : [1667181066, 519470214]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/HpsTransactionStatus.swift"
+  : [1667181066, 519614219]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/HpsTransactionType.swift"
+  : [1667181066, 519690990]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSBatchCloseBuilder.swift"
+  : [1667181066, 519808053]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSClientAppDelegate.swift"
+  : [1667181066, 519884347]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditAdjustBuilder.swift"
+  : [1667181066, 519958257]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditAuthBuilder.swift"
+  : [1667181066, 520033836]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditCaptureBuilder.swift"
+  : [1667181066, 520103693]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditReturnBuilder.swift"
+  : [1667181066, 520169019]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditReversalBuilder.swift"
+  : [1667181066, 520255088]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditSaleBuilder.swift"
+  : [1667181066, 520351409]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSCreditVoidBuilder.swift"
+  : [1667181066, 520512580]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSDeviceDelegate.swift"
+  : [1667181066, 520605564]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSDeviceInterface.swift"
+  : [1667181066, 520699977]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/Protocols/GMSTransactionDelegate.swift"
+  : [1667181066, 520772933]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/Utility/GlobalMobileSDK/ReversalReasonCode.swift"
+  : [1667181066, 520857810]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeBaseBuilder.swift"
+  : [1667181066, 521998643]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeBatchCloseBuilder.swift"
+  : [1667181066, 522088050]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditAdjustBuilder.swift"
+  : [1667181066, 522165298]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditAuthBuilder.swift"
+  : [1667181066, 522255182]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditCaptureBuilder.swift"
+  : [1667181066, 522328853]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditReturnBuilder.swift"
+  : [1667181066, 522399902]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditReversalBuilder.swift"
+  : [1667181066, 522463321]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditSaleBuilder.swift"
+  : [1667181066, 522546529]
+  ? "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/Builders/HpsWiseCubeCreditVoidBuilder.swift"
+  : [1667181066, 522617101]
+  "/Users/renato.santos/Documents/ForkHeatlandProjects/heartland-ios/Pod/Classes/Terminals/WiseCube/HpsWiseCubeDevice.swift": [1667181066, 522682666]

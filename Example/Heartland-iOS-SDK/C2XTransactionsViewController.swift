@@ -83,8 +83,8 @@ private extension C2XTransactionsViewController {
                                         for: .touchUpInside)
         
         self.manualCardTransactionButton.addTarget(self,
-                                        action: #selector(manualTransactionButtonAction(_:)),
-                                        for: .touchUpInside)
+                                                   action: #selector(manualTransactionButtonAction(_:)),
+                                                   for: .touchUpInside)
         self.creditVoidButton.addTarget(self,
                                         action: #selector(creditVoidTransactionButtonAction(_:)),
                                         for: .touchUpInside)
@@ -145,6 +145,26 @@ private extension C2XTransactionsViewController {
                 builder.transactionId = transactionId
                 builder.amount = self.transactionAmount
                 builder.execute()
+            } else {
+                showTextDialog(LoadingStatus.NOT_TRANSACTION_ID.rawValue)
+            }
+        } else {
+            showTextDialog(LoadingStatus.DEVICE_NOT_CONNECTED_ALERT.rawValue)
+        }
+    }
+    
+    @objc func creditCreditReversalTransactionButtonAction(_ sender: UIButton) {
+        if let device = self.device {
+            showProgress(true)
+            setText(LoadingStatus.WAIT.rawValue)
+            
+            if let transactionId = self.transactionId {
+                let builder: HpsC2xCreditReversalBuilder = HpsC2xCreditReversalBuilder(device: device)
+                builder.clientTransactionId = generateClientTransactionId()
+                builder.amount = self.transactionAmount
+                builder.transactionId = transactionId
+                builder.execute()
+                
             } else {
                 showTextDialog(LoadingStatus.NOT_TRANSACTION_ID.rawValue)
             }
@@ -413,3 +433,10 @@ private extension C2XTransactionsViewController {
     }
 }
 
+// MARK: - Reversal Transaction
+extension C2XTransactionsViewController {
+    func generateClientTransactionId() -> UUID {
+        let id = Int.random(in: 1111111111...9999999999)
+        return UUID(uuidString: "\(id)")!
+    }
+}
